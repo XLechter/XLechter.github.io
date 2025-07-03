@@ -16,23 +16,27 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
-I graduated from School of Mechanical Science and Engineering,  Huazhong University of Science and Technology, Wuhan China. with a doctor’s degree, advised by Yihua Kang and from School of Mechanical Engineering, Sichuan University, Chengdu China with a bachelor’s degree. I have published 20+ papers with 
- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+ I am now an associate researcher in the College of Computer Science and Software Engineering, Hohai University, Nanjing, China. He obtained his Ph.D. degree in the School of Computer Science, Wuhan University, China in 2020. I was a research fellow at Singapore University of Technology and Design from 2021 to 2023 with Prof. Jun Liu. I was a associate researcher in the School of Information Science and Technology, University of Science and Technology of China, Hefei, China from 2023 to 2024 and joined Hohai University in 2025. My research interests include , .I have published 20+ papers with 
+ <a href='https://scholar.google.com/citations?user=-qDvzxAAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 My research interest includes: 
-- Instrumentation
-- Nondestructive testing (NDT)
-- Magnetic flux leakage (MFL) detection
-- Eddy current testing (ECT)
-- Electromagnetic measurements
-- Magnetic sensors
-- Nondestructive testing equipment
+- 3D scene localization and navigation
+- 3D content editing and generation
+- Point cloud analysis
+- 3D reconstruction
+-
+
 
 
 # 🎓 Educations 
-- *2016.06 - 2022.12*, <a href="http://english.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> School of Mechanical Science and Engineering, Huazhong University of Science and Technology, Wuhan China. 
-- *2012.09 - 2016.06*, <a href="https://en.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> School of Manufacturing Science and Engineering, Sichuan University, Chengdu China. 
+<!-- - *2017 - 2020*, <a href="http://english.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> School of Mechanical Science and Engineering, Huazhong University of Science and Technology, Wuhan China.  -->
+- *2017 - 2020*, School of Computer Science, Wuhan University, Wuhan, China. 
+
+- *2014 - 2016*, School of Computer Science, Huazhong University of Science and Technology, Wuhan China. 
+
+- *2010 - 2014*, School of Computer Science, Shandong Normal University, Jinan, China. 
+
+<!-- - *2012.09 - 2016.06*, <a href="https://en.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> School of Manufacturing Science and Engineering, Sichuan University, Chengdu China.  -->
  
 
 # 📝 Publications 
