@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
  I am now an associate researcher in the College of Computer Science and Software Engineering, Hohai University, Nanjing, China. He obtained his Ph.D. degree in the School of Computer Science, Wuhan University, China in 2020. I was a research fellow at Singapore University of Technology and Design from 2021 to 2023 with Prof. Jun Liu. I was a associate researcher in the School of Information Science and Technology, University of Science and Technology of China, Hefei, China from 2023 to 2024 and joined Hohai University in 2025. My research interests include , .I have published 20+ papers with 
- <a href='https://scholar.google.com/citations?user=-qDvzxAAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+ <a href='https://scholar.google.com/citations?user=-qDvzxAAAAAJ'>700+</a>.
 
 My research interest includes: 
 - 3D scene localization and navigation
