@@ -30,11 +30,11 @@ My research interest includes:
 
 # 🎓 Educations 
 <!-- - *2017 - 2020*, <a href="http://english.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> School of Mechanical Science and Engineering, Huazhong University of Science and Technology, Wuhan China.  -->
-- *2017 - 2020*, School of Computer Science, Wuhan University, Wuhan, China. 
+- *2017 - 2020*, PHD, School of Computer Science, Wuhan University, Wuhan, China. Advisor: Chunxia Xiao.
 
-- *2014 - 2016*, School of Computer Science, Huazhong University of Science and Technology, Wuhan China. 
+- *2014 - 2016*, Master, School of Computer Science, Huazhong University of Science and Technology, Wuhan China. Advisor: Dan Li.
 
-- *2010 - 2014*, School of Computer Science, Shandong Normal University, Jinan, China. 
+- *2010 - 2014*, Bechelor, School of Information Engineering, Shandong Normal University, Jinan, China. 
 
 <!-- - *2012.09 - 2016.06*, <a href="https://en.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> School of Manufacturing Science and Engineering, Sichuan University, Chengdu China.  -->
  
