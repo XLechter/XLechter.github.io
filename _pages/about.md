@@ -60,10 +60,13 @@ My research interest includes:
 
 *indicates corresponding author; +indicates co-first author.
 
+*_2025_*
 
 - Y Xu, H Qu, J Liu, `Wenxiao Zhang*`, X Yang*. CMMLoc: Advancing Text-to-PointCloud Localization with Cauchy-Mixture-Model Based Framework. ___CVPR 2025___. (CCF A) [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/html/Xu_CMMLoc_Advancing_Text-to-PointCloud_Localization_with_Cauchy-Mixture-Model_Based_Framework_CVPR_2025_paper.html) [[Codes]](https://github. com/anonymous0819/CMMLoc)
 
 - `Wenxiao Zhang`, Rahmani, H., & Liu, J. Unpaired 3d shape-to-shape translation via gradient-guided triplane diffusion. IEEE Transactions on Visualization and Computer Graphics. ___IEEE Transactions on Visualization and Computer Graphics 2025___. (CCF A) [[Paper]](https://ieeexplore.ieee.org/abstract/document/10856441/) [[Codes]](https://github.com/XLechter/GuidedShapeTrans)
+
+*_2024_*
 
 - Xu, Hang, Long, Chen, `Wenxiao Zhang*`, Liu, Yuan, Cao, Zhen, Dong, Zhen, Yang, Bisheng. Explicitly Guided Information Interaction Network for Cross-modal Point Cloud Completion. ___ECCV 2024___. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-73254-6_24) [[Codes]](https://github.com/WHU-USI3DV/EGIInet)
 
@@ -71,17 +74,21 @@ My research interest includes:
 
 - `Wenxiao Zhang`, Rahmani, H., Yang, X., Liu, J*.Reverse2Complete: Unpaired Multimodal Point Cloud Completion via Guided Diffusion. ACM Multimedia 2024. (CCF A) [[Paper]](https://dl.acm.org/doi/abs/10.1145/3664647.3680590) [[Codes]]()
 
+*_2023_*
+
 - `Wenxiao Zhang`, Zhou, Huajian, Dong, Zhen, Yan, Qingan, Xiao, Chunxia*. Point cloud completion via skeleton-detail transformer. IEEE Transactions on Visualization and Computer Graphics 2023. (CCF A) [[Paper]](https://ieeexplore.ieee.org/abstract/document/9804851/) [[Codes]](https://github.com/XLechter/SDT)
 
 - `Wenxiao`, Zhou, Huajian, Dong, Zhen, Yan, Qingan, Xiao, Chunxia*. Rank-pointretrieval: Reranking point cloud retrieval via a visually consistent registration evaluation. IEEE Transactions on Visualization and Computer Graphics 2023. (CCF A) [[Paper]](https://ieeexplore.ieee.org/abstract/document/9764639) [[Codes]](https://github.com/XLechter/Rank-PointRetrieval)
 
 - t-net: Knowledge transfer for unpaired 3d shape completion. AAAI. Cao, Z., `Wenxiao Zhang+`, Xin, W., Zhen, D., Yushen, L., Xiongwu, X., & Yang, B. AAAI 2023. (CCF A) [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25101) [[Codes]](https://github.com/a4152684/KT-Net)
 
-- Pc2-pu:Patch correlation and position correction for effective point cloud upsampling. ACM Multimedia. Long, C, `Wenxiao Zhang+`, Li, R., Wang, H., Dong, Z., & Yang, B. ACM MM 2022. (CCF A) [[Paper]](https://dl.acm.org/doi/abs/10.1145/3503161.3547777) [[Codes]](https://github.com/chenlongwhu/PC2-PU.git)
-
 - Ziqi Wang, Fei Luo, Xiaoxiao Long, `Wenxiao Zhang`, Chunxia Xiao. Learning long-range information with dual-scale transformers for indoor scene completion. ICCV 2023. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10377926/)
 
 - Tuo Cao, Wenxiao Zhang, Yanping Fu, Shengjie Zheng, Fei Luo, Chunxia Xiao. Dgecn++: A depth-guided edge convolutional network for end-to-end 6d pose estimation via attention mechanism. IEEE Transactions on Circuits and Systems for Video Technology 2023. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10295517/)
+
+*Before 2023*
+
+- Pc2-pu:Patch correlation and position correction for effective point cloud upsampling. ACM Multimedia. Long, C, `Wenxiao Zhang+`, Li, R., Wang, H., Dong, Z., & Yang, B. ACM MM 2022. (CCF A) [[Paper]](https://dl.acm.org/doi/abs/10.1145/3503161.3547777) [[Codes]](https://github.com/chenlongwhu/PC2-PU.git)
 
 - `Wenxiao`, Qingan, Yan, Chunxia, Xiao*. Detail preserved point cloud completion via separated feature aggregation. European Conference on Computer Vision. ECCV 2020. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-58595-2_31) [[Codes]](https://github.com/XLechter/Detail-Preserved-Point-Cloud-Completion-via-SFA)
 
