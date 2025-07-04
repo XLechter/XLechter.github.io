@@ -70,11 +70,13 @@ ___2024___
 
 - Xu, Hang, Long, Chen, `Wenxiao Zhang*`, Liu, Yuan, Cao, Zhen, Dong, Zhen, Yang, Bisheng. Explicitly Guided Information Interaction Network for Cross-modal Point Cloud Completion. ___ECCV 2024___. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-73254-6_24) [[Codes]](https://github.com/WHU-USI3DV/EGIInet)
 
-- `Wenxiao Zhang`, Wang, Z., Xu, L., Yang, X., Liu, J*. Informative Point cloud Dataset Extraction for Classification via Gradient-based Points Moving. ACM Multimedia.  ACM MM 2024. (CCF A) [[Paper]](https://dl.acm.org/doi/abs/10.1145/3664647.3680767) [[Codes]](https://github.com/XLechter/PointCondensation)
+- `Wenxiao Zhang`, Wang, Z., Xu, L., Yang, X., Liu, J*. Informative Point cloud Dataset Extraction for Classification via Gradient-based Points Moving. ACM Multimedia.  ___ACM Multimedia 2024___. (CCF A) [[Paper]](https://dl.acm.org/doi/abs/10.1145/3664647.3680767) [[Codes]](https://github.com/XLechter/PointCondensation)
 
-- `Wenxiao Zhang`, Rahmani, H., Yang, X., Liu, J*.Reverse2Complete: Unpaired Multimodal Point Cloud Completion via Guided Diffusion. ACM Multimedia 2024. (CCF A) [[Paper]](https://dl.acm.org/doi/abs/10.1145/3664647.3680590) [[Codes]]()
+- `Wenxiao Zhang`, Rahmani, H., Yang, X., Liu, J*.Reverse2Complete: Unpaired Multimodal Point Cloud Completion via Guided Diffusion. ___ACM Multimedia 2024___. (CCF A) [[Paper]](https://dl.acm.org/doi/abs/10.1145/3664647.3680590) [[Codes]]()
 
 - Chen Long, `Wenxiao Zhang`, Zhe Chen, Haiping Wang, Yuan Liu, Peiling Tong, Zhen Cao, Zhen Dong, Bisheng Yang. SparseDC: depth completion from sparse and non-uniform inputs. ___Information Fusion___ 2024. (SCI Q1) [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1566253524002483) [[Codes]](https://github.com/WHU-USI3DV/SparseDC)
+
+- Yusen Wang, Kaixuan Zhou, `Wenxiao Zhang`, Chunxia Xiao. MegaSurf: Scalable Large Scene Neural Surface Reconstruction. ___ACM Multimedia 2024___. (CCF A) [[Paper]](https://dl.acm.org/doi/abs/10.1145/3664647.3681303)
 
 ___2023___
 
