@@ -16,8 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
- I am now an associate researcher in the College of Computer Science and Software Engineering, Hohai University, Nanjing, China. He obtained his Ph.D. degree in the School of Computer Science, Wuhan University, China in 2020. I was a research fellow at Singapore University of Technology and Design from 2021 to 2023 with Prof. Jun Liu. I was a associate researcher in the School of Information Science and Technology, University of Science and Technology of China, Hefei, China from 2023 to 2024 and joined Hohai University in 2025. My research interests include , .I have published 20+ papers with 
- <a href='https://scholar.google.com/citations?user=-qDvzxAAAAAJ'>700+</a>.
+I'm currently an Associate Researcher at the College of Computer Science and Software Engineering, Hohai University, Nanjing, China. I earned my Ph.D. from the School of Computer Science, Wuhan University, China, in 2020. From 2021 to 2023, I was a Research Fellow at Singapore University of Technology and Design, working with Prof. Jun Liu. Subsequently, I served as an Associate Researcher at the School of Information Science and Technology, University of Science and Technology of China, Hefei, China, from 2023 to 2024, before joining Hohai University in 2025. I have published 20+ papers in venues like CVPR, ECCV, ICCV, and TVCG, with over 700 citations.
 
 My research interest includes: 
 - 3D scene localization and navigation
@@ -27,7 +26,7 @@ My research interest includes:
 -
 
 # 🏭 Work Experience
-- *2016 - 2017*, R&D Engineer, Inspur International Co., Ltd., Jinan China.
+- *2016 - 2017*, R\&D Engineer, Inspur International Co., Ltd., Jinan China.
 - *2020 - 2023*, Research Fellow, Singapore University of Technology and Design, Singapore.
 - *2024 - 2025*, Associate Researcher University of Science and Technology of China, Hefei China.
 - *2025 - now*, Associate Professor, Hohai University, Hefei China.
