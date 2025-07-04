@@ -83,7 +83,7 @@ ___2023___
 
 - `Wenxiao`, Zhou, Huajian, Dong, Zhen, Yan, Qingan, Xiao, Chunxia*. Rank-pointretrieval: Reranking point cloud retrieval via a visually consistent registration evaluation. ___IEEE Transactions on Visualization and Computer Graphics 2023___. (CCF A) [[Paper]](https://ieeexplore.ieee.org/abstract/document/9764639) [[Codes]](https://github.com/XLechter/Rank-PointRetrieval)
 
-- t-net: Knowledge transfer for unpaired 3d shape completion. AAAI. Cao, Z., `Wenxiao Zhang+`, Xin, W., Zhen, D., Yushen, L., Xiongwu, X., & Yang, B. ___AAAI 2023___. (CCF A) [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25101) [[Codes]](https://github.com/a4152684/KT-Net)
+- Cao, Z., `Wenxiao Zhang+`, Xin, W., Zhen, D., Yushen, L., Xiongwu, X., & Yang, B. Kt-net: Knowledge transfer for unpaired 3d shape completion. ___AAAI 2023___. (CCF A) [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25101) [[Codes]](https://github.com/a4152684/KT-Net)
 
 - Ziqi Wang, Fei Luo, Xiaoxiao Long, `Wenxiao Zhang`, Chunxia Xiao. Learning long-range information with dual-scale transformers for indoor scene completion. ___ICCV 2023___. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10377926/)
 
@@ -91,7 +91,7 @@ ___2023___
 
 ___Before 2023___
 
-- Pc2-pu:Patch correlation and position correction for effective point cloud upsampling. ACM Multimedia. Long, C, `Wenxiao Zhang+`, Li, R., Wang, H., Dong, Z., & Yang, B. ___ACM MM 2022___. (CCF A) [[Paper]](https://dl.acm.org/doi/abs/10.1145/3503161.3547777) [[Codes]](https://github.com/chenlongwhu/PC2-PU.git)
+-  Long, C, `Wenxiao Zhang+`, Li, R., Wang, H., Dong, Z., & Yang, B. Pc2-pu:Patch correlation and position correction for effective point cloud upsampling. ACM Multimedia.___ACM MM 2022___. (CCF A) [[Paper]](https://dl.acm.org/doi/abs/10.1145/3503161.3547777) [[Codes]](https://github.com/chenlongwhu/PC2-PU.git)
 
 - `Wenxiao`, Qingan, Yan, Chunxia, Xiao*. Detail preserved point cloud completion via separated feature aggregation. European Conference on Computer Vision. ___ECCV 2020___. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-58595-2_31) [[Codes]](https://github.com/XLechter/Detail-Preserved-Point-Cloud-Completion-via-SFA)
 
