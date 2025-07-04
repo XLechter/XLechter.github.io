@@ -74,6 +74,8 @@ My research interest includes:
 
 - `Wenxiao Zhang`, Rahmani, H., Yang, X., Liu, J*.Reverse2Complete: Unpaired Multimodal Point Cloud Completion via Guided Diffusion. ACM Multimedia 2024. (CCF A) [[Paper]](https://dl.acm.org/doi/abs/10.1145/3664647.3680590) [[Codes]]()
 
+- Chen Long, `Wenxiao Zhang`, Zhe Chen, Haiping Wang, Yuan Liu, Peiling Tong, Zhen Cao, Zhen Dong, Bisheng Yang. SparseDC: depth completion from sparse and non-uniform inputs. ___Information Fusion__ 2024. (SCI Q1) [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1566253524002483) [[Codes]](https://github.com/WHU-USI3DV/SparseDC)
+
 *_2023_*
 
 - `Wenxiao Zhang`, Zhou, Huajian, Dong, Zhen, Yan, Qingan, Xiao, Chunxia*. Point cloud completion via skeleton-detail transformer. IEEE Transactions on Visualization and Computer Graphics 2023. (CCF A) [[Paper]](https://ieeexplore.ieee.org/abstract/document/9804851/) [[Codes]](https://github.com/XLechter/SDT)
