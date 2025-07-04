@@ -61,11 +61,11 @@ My research interest includes:
 *indicates corresponding author; +indicates co-first author.
 
 
-- Y Xu, H Qu, J Liu, `Wenxiao Zhang*`, X Yang*. CMMLoc: Advancing Text-to-PointCloud Localization with Cauchy-Mixture-Model Based Framework. CVPR 2025. (CCF A) [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/html/Xu_CMMLoc_Advancing_Text-to-PointCloud_Localization_with_Cauchy-Mixture-Model_Based_Framework_CVPR_2025_paper.html) [[Codes]](https://github. com/anonymous0819/CMMLoc)
+- Y Xu, H Qu, J Liu, `Wenxiao Zhang*`, X Yang*. CMMLoc: Advancing Text-to-PointCloud Localization with Cauchy-Mixture-Model Based Framework. ___CVPR 2025___. (CCF A) [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/html/Xu_CMMLoc_Advancing_Text-to-PointCloud_Localization_with_Cauchy-Mixture-Model_Based_Framework_CVPR_2025_paper.html) [[Codes]](https://github. com/anonymous0819/CMMLoc)
 
-- `Wenxiao Zhang`, Rahmani, H., & Liu, J. Unpaired 3d shape-to-shape translation via gradient-guided triplane diffusion. IEEE Transactions on Visualization and Computer Graphics. IEEE Transactions on Visualization and Computer Graphics 2025. (CCF A) [[Paper]](https://ieeexplore.ieee.org/abstract/document/10856441/) [[Codes]](https://github.com/XLechter/GuidedShapeTrans)
+- `Wenxiao Zhang`, Rahmani, H., & Liu, J. Unpaired 3d shape-to-shape translation via gradient-guided triplane diffusion. IEEE Transactions on Visualization and Computer Graphics. ___IEEE Transactions on Visualization and Computer Graphics 2025___. (CCF A) [[Paper]](https://ieeexplore.ieee.org/abstract/document/10856441/) [[Codes]](https://github.com/XLechter/GuidedShapeTrans)
 
-- Xu, Hang, Long, Chen, `Wenxiao Zhang*`, Liu, Yuan, Cao, Zhen, Dong, Zhen, Yang, Bisheng. Explicitly Guided Information Interaction Network for Cross-modal Point Cloud Completion. *_ECCV 2024._* [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-73254-6_24) [[Codes]](https://github.com/WHU-USI3DV/EGIInet)
+- Xu, Hang, Long, Chen, `Wenxiao Zhang*`, Liu, Yuan, Cao, Zhen, Dong, Zhen, Yang, Bisheng. Explicitly Guided Information Interaction Network for Cross-modal Point Cloud Completion. ___ECCV 2024___. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-73254-6_24) [[Codes]](https://github.com/WHU-USI3DV/EGIInet)
 
 - `Wenxiao Zhang`, Wang, Z., Xu, L., Yang, X., Liu, J*. Informative Point cloud Dataset Extraction for Classification via Gradient-based Points Moving. ACM Multimedia.  ACM MM 2024. (CCF A) [[Paper]](https://dl.acm.org/doi/abs/10.1145/3664647.3680767) [[Codes]](https://github.com/XLechter/PointCondensation)
 
