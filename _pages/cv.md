@@ -1,8 +1,9 @@
 ﻿---
+layout: cv
 permalink: /cv/
 title: "Curriculum Vitae"
 excerpt: "Curriculum Vitae of Wenxiao Zhang"
-author_profile: true
+author_profile: false
 ---
 
 # Wenxiao Zhang
